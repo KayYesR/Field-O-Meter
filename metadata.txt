@@ -1,0 +1,10 @@
+[general]
+name=Field'o'Meter
+description=Geological strike/dip/plunge measurement plugin with averaging, calibration checks, and outlier rejection. Auto-fills QField feature forms.
+author=Field'o'Meter
+version=1.0
+qfieldMinimumVersion=3.0
+homepage=
+icon=
+category=Geology
+tags=geology,structural,compass,strike,dip,plunge

@@ -1,5 +1,3 @@
-# Field-O-Meter
-Field'O'Meter is a QGIS ( Q FIELD APP) Plugin to help streamline field data collection and simplify workflows.
 # Field'o'Meter — QField Plugin
 
 Geological strike, dip, dip-direction, and plunge measurement plugin for QField with sampling-based averaging, outlier rejection, calibration checks, and feature-form auto-fill.
